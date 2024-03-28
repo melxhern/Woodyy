@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Abdelhak Room.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Introduction_v2.unity
+    guid: c87a7c7e493c0014aab131ab397275e9
+  - enabled: 1
+    path: Assets/Scenes/Woody V2.unity
+    guid: e551aafaa2d2a804a9a13a39d0acd421
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
       type: 2}
