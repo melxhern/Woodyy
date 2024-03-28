@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ChestTrigger : MonoBehaviour
+public class CardPopUp : MonoBehaviour
 {
     public Animator anim;
 
@@ -10,5 +10,4 @@ public class ChestTrigger : MonoBehaviour
     {
         anim.SetTrigger("PlayerProximity");
     }
-
 }
